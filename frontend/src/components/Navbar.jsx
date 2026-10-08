@@ -10,6 +10,17 @@ function Navbar (){
             {" | "}
 
             <Link to ="/students">Students</Link>
+            {" | "}
+
+            <Link to ="/add-student">AddStudents</Link>
+
+            {" | "}
+
+            <Link to ="/courses">CourseList</Link>
+
+           {" | "}
+            
+            <Link to ="/enrollments">EnrollmentList</Link>
 
         </nav>
     );
